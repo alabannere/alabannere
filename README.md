@@ -1,2 +1,2 @@
 # Ale Labannere
-alelabannere.com
+alelab.dev
